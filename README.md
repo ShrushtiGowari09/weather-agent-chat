@@ -85,9 +85,6 @@ Chunked response requires manual parsing with regex.
 🌍 Live Demo
 👉 Live Demo (replace with your deployed link if available)
 
-📸 Screenshot
-
-Add screenshot.png in the root for demo preview.
 
 🙋‍♀️ Author
 Shrushti Gowari
