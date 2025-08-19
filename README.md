@@ -4,17 +4,6 @@ A simple weather chatbot providing real-time responses using a weather agent API
 
 ---
 
-## 📦 Final Deliverables
-
-- ✅ `src/`
-- ✅ `README.md`
-- ✅ `package.json`
-- ✅ Screenshots
-- ✅ API assumptions
-- ✅ Live Demo (optional)
-
----
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the Repository
@@ -23,14 +12,8 @@ A simple weather chatbot providing real-time responses using a weather agent API
 git clone https://github.com/ShrushtiGowari09/weather-agent-chat.git
 cd weather-agent-chat
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
 3. Start the Development Server
-bash
-Copy
-Edit
 npm run dev
 Visit: http://localhost:5173
 
