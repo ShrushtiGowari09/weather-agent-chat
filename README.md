@@ -82,10 +82,6 @@ Chunked response requires manual parsing with regex.
 
 💬 UI lacks typing indicators or animation during assistant response.
 
-🌍 Live Demo
-👉 Live Demo (replace with your deployed link if available)
-
-
 🙋‍♀️ Author
 Shrushti Gowari
 📧 shrushtigowari09@gmail.com
@@ -96,16 +92,3 @@ This project is open-source and available under the MIT License.
 
 Feel free to fork, contribute, or use as a starter!
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want:
-- A `.gitignore` file
-- Hosting help on **Vercel** or **Netlify**
-- Screenshots auto-generated
-- To link your GitHub Pages site
-
-I'm here to help polish the last mile too 🚀
